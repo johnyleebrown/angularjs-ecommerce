@@ -16,7 +16,7 @@
     "express-session": "~1.0.2",
     "lodash": "~4.17.15",
     "method-override": "~1.0.0",
-    "morgan": "~1.0.0",
+    "morgan": "~1.10.0",
     "prerender-node": "^1.2.1",
     "serve-favicon": "~2.0.1"
   },
